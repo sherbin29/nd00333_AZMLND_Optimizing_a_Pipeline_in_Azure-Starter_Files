@@ -21,5 +21,5 @@ We have tested with vaiours model around 24 pipelines with different ML Algorith
 **Voting Ensemble with Accuracy of 0.9175**
 
 ## Pipeline comparison
-**HyperDrive Model has Accuracy of 0.9072
-  AutoML Model has Accuracy of 0.9175.**
+**HyperDrive Model has Accuracy of 0.9072**
+**AutoML Model has Accuracy of 0.9175**
