@@ -13,6 +13,7 @@ link -- > https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-n
 Scikit-learn Pipeline includes  Random Parameter Sampler, Bandit Policy and SKLearn estimator these are the Hyperdrive configuration for ML optimization. It include the file train.py is passed to the estimator. The estimator has some parameter has policy, Parameter Sampler,primary metric (Accuracy) these parameter are passes to the HyderDrive Config Method and we can see the output of the model.
 
 **Random sampling --> parameters are --C, max iter.**
+
 **Bandit policy --> parameters are slack_factor = 0.1, evaluation_interval=1, delay_evaluation=5.**
 
 ## AutoML
